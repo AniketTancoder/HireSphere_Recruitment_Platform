@@ -353,12 +353,6 @@ TalentSphere features a modern, glass morphism design language that provides:
 
 ---
 
-## 📄 License
-
-TalentSphere is released under the MIT License. See LICENSE file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 TalentSphere was built with contributions from the open source community and leverages modern web technologies to create an innovative recruitment platform. Special thanks to all contributors and users who help make TalentSphere better every day.
