@@ -1,0 +1,186 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Production builds
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Upload directories
+uploads/
+talent-sphere-backend/uploads/
+
+# Sensitive configuration files
+config/production.json
+config/staging.json
+config/local.json
+
+# API keys and secrets
+secrets/
+*.key
+*.pem
+*.crt
+*.cer
+*.p12
+*.pfx
+
+# Admin credentials
+ADMIN_CREDENTIALS.md
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Cache directories
+.cache/
+.tmp/
+temp/
+
+# Build artifacts
+*.min.js
+*.min.css
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Package manager lock files (uncomment if you want to ignore)
+# package-lock.json
+# yarn.lock
+
+# Local development files
+.local
+.dev
+
+# Testing
+test-results/
+playwright-report/
+playwright/.cache/
+
+# SSL certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+
+# API keys
+api-keys.json
+keys.json
+secrets.json
+
+# OAuth tokens
+oauth-tokens.json
+tokens.json
+
+# Database dumps
+*.sql.gz
+*.sql.bz2
+
+# Configuration files with sensitive data
+config/database.php
+config/db.php
+config/settings.php
+config/app.php
+config/production.php
+config/staging.php
+config/local.php
+
+# Session files
+sessions/
+session/
+
+# Error logs
+error_log
+error.log
+errors.log
+
+# Access logs
+access_log
+access.log
+
+# Debug files
+debug.log
+debug.txt
+
+# Performance logs
+performance.log
+
+# Security logs
+security.log
+
+# Audit logs
+audit.log
+
+# System logs
+system.log
+
+# Application logs
+app.log
+application.log
+
+# Server logs
+server.log
